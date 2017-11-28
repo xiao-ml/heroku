@@ -1,6 +1,3 @@
-> Fork 于 [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) 项目
-
-# shadowsocks-heroku
 [Heroku](https://www.heroku.com/) 是一个支持多种编程语言的云平台即服务，heroku 则是可部署在 Heroku 平台。
 
 ### 如果遇到问题
