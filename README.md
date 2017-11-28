@@ -1,10 +1,7 @@
 > Fork 于 [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) 项目
 
 # shadowsocks-heroku
-[Heroku](https://www.heroku.com/) 是一个支持多种编程语言的云平台即服务，shadowsocks-heroku 则是可部署在 Heroku 平台的ss服务。
-和 [shadowsocks](https://github.com/clowwindy/shadowsocks) 不同的是 shadowsocks-heroku 使用的 WebSocket 代替原本的 sockets。
-
-跟着下面的步骤，预计 **十分钟后**，你就可以 Google 了👻。
+[Heroku](https://www.heroku.com/) 是一个支持多种编程语言的云平台即服务，heroku 则是可部署在 Heroku 平台。
 
 ### 如果遇到问题
 请下面列表中寻找解决办法，新问题欢迎[创建issue](https://github.com/521xueweihan/shadowsocks-heroku/issues/new)进行讨论。
